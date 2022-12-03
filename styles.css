@@ -1,0 +1,107 @@
+body{
+  color: black;
+  background-color: #fff;
+  font-family: 'monserrat',sans-serif;
+  text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+ font-family: 'Montserrat';
+}
+.rolls{
+  text-align: center;
+  padding-top: 150px;
+  padding-left: 900px;
+}
+/* navbar */
+.nav-bar{
+  text-align: left;
+}
+.download-button {
+  margin: 5% 18px 0;
+}
+/* background */
+.background{
+  background-image: url("images/title_image.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+}
+.bigtitle{
+  font-size: 3.5rem;
+  line-height: 75px;
+  font-weight: bolder;
+}
+/* features */
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+.features-box {
+  padding: 2.5%;
+}
+
+.icon {
+  color: #87CEEB;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.icon:hover {
+  color: #C2DFFF;
+}
+/* testimonial section */
+#testimonials {
+  background-color: #87CEEB ;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.textimonial-text{
+  font-size: 2.5rem;
+  line-height: 75px;
+  font-family: 'Montserrat';
+  font-weight: bolder;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 30%;
+}
+/* call to action */
+#cta{
+  background-color: #fff;
+  padding: 7% 25% 7%;
+}
+
+.cta-title{
+  font-family: 'monserrat';
+  font-size: 3rem;
+  line-height: 75px;
+  font-weight: bolder;
+  color: black;
+  padding: 2% 0%;
+}
+/* footer */
+
+#footer{
+  padding: 6% 5% 4%;
+  background-color:#87CEEB;
+}
+.cr{
+  padding: 50px 50px 5px;
+}
+
+.footer-brands{
+  padding: 1%;
+  color: black;
+}
+.footer-brand:hover{
+  color: #fff;
+}
